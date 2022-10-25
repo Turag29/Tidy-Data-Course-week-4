@@ -16,7 +16,7 @@ The data was collected by volunteers by using a samsung galaxy smart phone. The 
 
 ## Creating a tidy data set
 
-The script "Download and Clean wearable data.R" downloads the data and unpacks (as long data does not yet exist). It then merges the training and test data sets and renames activities and features according to given tables. The labels are then renamed to avoid abbreviations and finally a tidy data set is given in "tidy_data.txt" file. data is given here with the mean of each variable for each activity and each subject.
+The script "run_analysis.R" downloads the data and unpacks (as long data does not yet exist). It then merges the training and test data sets and renames activities and features according to given tables. The labels are then renamed to avoid abbreviations and finally a tidy data set is given in "tidy_data.txt" file. data is given here with the mean of each variable for each activity and each subject.
 
 
 ## Readme of data set
